@@ -1,4 +1,4 @@
-# State Management and Redux Challenge (built with Vite)
+# Redux Task Manager
 
 ## Goals
 
